@@ -1,0 +1,1 @@
+Tp realizado con compilador GCC , instalado con MSYS2 y usando C18
